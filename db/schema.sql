@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS challenge14_blog;
+CREATE DATABASE challenge14_blog;
